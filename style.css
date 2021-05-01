@@ -4,7 +4,7 @@
     outline: none;
 }
 body{
-    background: url("back.png") no-repeat fixed ;
+    background: url("background.PNG") no-repeat fixed ;
     background-size: cover;
     
     height: 100vh;
