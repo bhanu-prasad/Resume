@@ -12,6 +12,10 @@ body{
     padding: 60px 60px;
     
 }
+hr{
+   background-color: aliceblue;
+   height: 3px;
+}
 h1, h2{
     font-family: 'Caesar Dressing';
 }
