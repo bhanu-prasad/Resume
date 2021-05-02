@@ -58,7 +58,7 @@ h1, h2{
         font-size: 20px;
     }
     .scroll{
-        height: 550px;
+        height: 570px;
         overflow-y: scroll;
     }
     .card-link{
